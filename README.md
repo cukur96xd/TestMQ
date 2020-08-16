@@ -1,2 +1,0 @@
-# TestMQ
-test
